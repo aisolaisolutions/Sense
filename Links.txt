@@ -1,0 +1,16 @@
+https://github.com/piwheels/packages/issues/59 
+
+https://www.youtube.com/watch?v=cFDSqiEIunw&t=13s  # MLX90614 
+
+
+
+https://robojax.com/learn/arduino/?vid=robojax_MLX90614_infrared_temperature  #Code link
+
+
+https://maker.pro/raspberry-pi/tutorial/how-to-connect-and-interface-raspberry-pi-with-arduino  #Serial communication
+
+
+https://www.youtube.com/watch?v=dNUb196-XKU   #Buzzur 
+
+
+https://www.youtube.com/watch?v=ZejQOX69K5M  #HC-SR04 Ultransonic

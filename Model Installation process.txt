@@ -1,0 +1,23 @@
+IDE
+Pycharm
+Python verison :
+Python 6 or python 7
+Virtual Environmental  Setup:
+https://www.youtube.com/watch?v=W8C097f6Hcg
+Libraries:
+•	tensorflow= 1.15.2
+•	imutils= 0.5.3
+•	numpy= 1.16.4
+•	argparse= 1.1
+•	cv2  = 4.1.0
+•	playsound
+
+For Example:
+pip install numpy==1.16.4
+
+
+
+Run command prompt and type python detect_mask_video.py 
+
+
+
